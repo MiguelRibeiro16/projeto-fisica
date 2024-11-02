@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  background-color: #4CAF50;
+  background-color: rgb(10, 106, 145);
   color: #fff;
   padding: 20px;
   text-align: center;
@@ -60,7 +60,7 @@ body {
   margin: 20px 0;
 }
 .content .section__title {
-  color: #4CAF50;
+  color: rgb(10, 106, 145);
 }
 .content .section__text {
   margin: 10px 0;
